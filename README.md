@@ -6,6 +6,7 @@ This is a simple and interactive **To-Do List Application** developed using **HT
 
 The project demonstrates JavaScript DOM manipulation, event handling, client-side state management, and local data persistence.
 
+---
 
 ## 🚀 Features
 
@@ -22,6 +23,7 @@ The project demonstrates JavaScript DOM manipulation, event handling, client-sid
 * ✅ Retain tasks after browser refresh
 * ✅ Responsive and user-friendly interface
 
+---
 
 ## 🛠️ Technologies Used
 
@@ -29,6 +31,8 @@ The project demonstrates JavaScript DOM manipulation, event handling, client-sid
 * CSS3
 * JavaScript (ES6)
 * Local Storage API
+
+---
 
 ## 📂 Project Structure
 
@@ -38,6 +42,9 @@ To-Do-List/
 │── style.css
 │── script.js
 └── README.md
+```
+
+---
 
 ## ▶️ How to Run
 
@@ -47,6 +54,8 @@ To-Do-List/
 4. Right-click on `index.html`.
 5. Select **Open with Live Server**.
 6. Start adding and managing your tasks.
+
+---
 
 ## 💻 Functionality
 
@@ -80,6 +89,9 @@ Tasks are automatically saved and restored after refreshing the browser.
 * **Active** – Displays only incomplete tasks.
 * **Completed** – Displays only completed tasks.
 
+---
+
+
 
 ## 🎯 Learning Outcomes
 
@@ -93,13 +105,14 @@ This project helped me learn:
 * JavaScript Arrays and Objects
 * Responsive Web Development
 
+---
 
 ## 👩‍💻 Author
 
 **Shirisha**
 
-GitHub: GitHub: "https://github.com/shirisha63" (https://github.com/shirisha63)
+GitHub: *(Add your GitHub profile link here)*
 
-
+---
 
 
