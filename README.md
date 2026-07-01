@@ -109,7 +109,7 @@ This project helped me learn:
 
 ## 👩‍💻 Author
 
-Kokkera Shirisha
+Shirisha
 
 GitHub: "https://github.com/shirisha63" (https://github.com/shirisha63)
 ---
