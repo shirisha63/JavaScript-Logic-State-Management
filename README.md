@@ -109,10 +109,9 @@ This project helped me learn:
 
 ## 👩‍💻 Author
 
-**Shirisha**
+Kokkera Shirisha
 
-GitHub: *(Add your GitHub profile link here)*
-
+GitHub: "https://github.com/shirisha63" (https://github.com/shirisha63)
 ---
 
 
